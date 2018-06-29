@@ -1,4 +1,2 @@
 # rohingya
 Rohingya Refugees
-
-Digifund
